@@ -1,0 +1,13 @@
+meta-mingw
+==========
+
+OpenEmbedded meta layer for mingw based SDKs modified to support Qt5
+
+Only supports rocko.
+
+This layer depends on:
+
+ URI: git://git.openembedded.org/openembedded-core
+ layers: meta
+ branch: master
+
